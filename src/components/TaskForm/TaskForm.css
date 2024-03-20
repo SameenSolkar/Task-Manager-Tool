@@ -1,0 +1,49 @@
+.form{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+.form-input{
+
+    margin: 0.5%;
+    padding: 15px;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 40%;
+}
+
+.form-input:focus{
+
+    box-shadow: 5px 5px 10px grey;
+}
+
+.form-select{
+
+    margin: 0.5%;
+    padding: 15px;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 40%;
+}
+
+.form-select:focus{
+
+    box-shadow: 5px 5px 10px grey;
+}
+
+.form-button{
+
+    margin: 0.6%;
+    padding: 1%;
+    width: 100px;
+    border-radius: 10px;
+    background-color: turquoise;
+}
+
+.form-button:active{
+
+    background-color: darkturquoise;
+    box-shadow: 2px 2px 4px grey;
+}
