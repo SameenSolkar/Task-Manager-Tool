@@ -2,14 +2,14 @@
 
 ## This tool is used to manage tasks by arranging them by sorting between ADDED, STARTED and COMPLETED.
 
-    - Create task, set priority to task and then click on add button to add task.
-    - New task gets added in ADDED section.
-    - Tasks can be Dragged and Dropped onto STARTED and COMPLETED section depending upon status of task.
+- Create task, set priority to task and then click on add button to add task.
+- New task gets added in ADDED section.
+- Tasks can be Dragged and Dropped onto STARTED and COMPLETED section depending upon status of task.
 
 
 ## Note
 
-    We are using React version 17 as we faced bugs using react-beautiful-dnd library (Drag and Drop library) with React 18.
+We are using React version 17 as we faced bugs using react-beautiful-dnd library (Drag and Drop library) with React 18.
 
 ## Available Scripts
 
