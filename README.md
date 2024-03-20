@@ -17,11 +17,11 @@ In the project directory,
 
 First install node modules using below command:
 
-  npm install
+  `npm install`
 
 next you can run app using below command:
 
-  npm start
+  `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
